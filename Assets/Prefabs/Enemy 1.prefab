@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 50
+  hitFX: {fileID: 4635967237114577430, guid: 5ebdf0ea636764b4a9b5b70ddca0b41d, type: 3}
 --- !u!114 &6723999871710844514
 MonoBehaviour:
   m_ObjectHideFlags: 0
