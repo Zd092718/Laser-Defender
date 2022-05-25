@@ -391,6 +391,22 @@ PrefabInstance:
       propertyPath: moveSpeed
       value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 4726726214249360393, guid: 96644e198abad364a9f43bfffc042552, type: 3}
+      propertyPath: paddingTop
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4726726214249360393, guid: 96644e198abad364a9f43bfffc042552, type: 3}
+      propertyPath: paddingLeft
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4726726214249360393, guid: 96644e198abad364a9f43bfffc042552, type: 3}
+      propertyPath: paddingRight
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4726726214249360393, guid: 96644e198abad364a9f43bfffc042552, type: 3}
+      propertyPath: paddingBottom
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6434483664306936149, guid: 96644e198abad364a9f43bfffc042552, type: 3}
       propertyPath: m_Name
       value: Player
